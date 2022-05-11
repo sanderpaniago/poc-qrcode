@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@zxing/browser": "^0.1.1",
     "next": "12.1.6",
+    "quagga": "^0.12.1",
     "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react-dom": "18.1.0",
+    "react-qr-reader": "^3.0.0-beta-1"
   },
   "devDependencies": {
     "@types/node": "17.0.31",
